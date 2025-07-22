@@ -17,9 +17,6 @@ This workflow automates the review process for form submissions using Google Gem
 - Airtable
 - AI logic using custom prompts
 
-## ⚙️ Workflow Overview
-
-![Workflow Screenshot](./screenshots/workflow.png)
 
 ## 🚀 Setup Instructions
 1. Clone this repo
@@ -37,3 +34,19 @@ This workflow automates the review process for form submissions using Google Gem
   "Role": "Graphic Designer",
   "AI Review": "Jane has a sharp eye for modern design aesthetics..."
 }
+
+## 🔍 Notes
+
+- The Gemini Chat prompt can be customized for tone and structure.
+- Memory tool stores contextual information for better LLM responses.
+
+---
+
+## 🧑‍💼 Author
+
+**Jishan Qureshi**  
+[LinkedIn](https://www.linkedin.com/in/jishan-qureshi-450117198/)  
+[Portfolio](https://bento.me/jishan-qureshi7)
+---
+
+Feel free to fork this workflow and build your own AI evaluation systems for form submissions, job applications, content moderation, or feedback collection.
