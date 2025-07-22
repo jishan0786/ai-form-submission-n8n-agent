@@ -34,6 +34,7 @@ This workflow automates the review process for form submissions using Google Gem
   "Role": "Graphic Designer",
   "AI Review": "Jane has a sharp eye for modern design aesthetics..."
 }
+---
 
 ## 🔍 Notes
 
